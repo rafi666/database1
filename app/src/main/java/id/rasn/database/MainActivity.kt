@@ -30,6 +30,8 @@ class MainActivity : AppCompatActivity() {
             Toast.makeText(this, "Successs",Toast.LENGTH_SHORT).show()
             inputNama.setText("")
             inputStatus.setText("")
+
+
         }
     }
 }
