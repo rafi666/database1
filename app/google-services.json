@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "985955180736",
+    "firebase_url": "https://simplecrud-832b9.firebaseio.com",
+    "project_id": "simplecrud-832b9",
+    "storage_bucket": "simplecrud-832b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985955180736:android:b15b95e9a213eb843a0d25",
+        "android_client_info": {
+          "package_name": "id.rasn.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985955180736-u03tcbo9mdiv5llit1f0kd579epkavi4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.rasn.database",
+            "certificate_hash": "a292462c9cbf3c564d61cdb49137f03d1295693d"
+          }
+        },
+        {
+          "client_id": "985955180736-2t097lbd3hvo4sm2s5s74v6nlvbkcb7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFXEjUWDdehyM24fBiL-zspVVLVOMvR9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985955180736-2t097lbd3hvo4sm2s5s74v6nlvbkcb7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
